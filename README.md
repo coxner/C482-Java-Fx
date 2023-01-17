@@ -67,7 +67,7 @@ E. A modify product screen, with fields that populate with presaved data, showin
 
 • a “Search” button and a text field with associated list for displaying the results of the search
 
-** II. Application **
+**II. Application**
 Now that you’ve created the GUI, write code to create the class structure provided in the attached “UML (unified modeling language) Class Diagram”. Enable each of the following capabilities in the application:
 
 F. Using the attached “UML Class Diagram”, create appropriate classes and instance variables with the following criteria:
@@ -117,7 +117,7 @@ I. Add the following functionalities to the product screens, using the methods p
 
 • cancel or exit out of this screen and go back to the main screen
 
-** “Modify Product” screen **
+**“Modify Product” screen**
 • modify or change data values
 
 • save modifications to the data and then redirect to the main screen
@@ -138,7 +138,7 @@ Set 1
 
 • ensuring that a product must always have at least one part
 
-** Set 2 **
+**Set 2**
 • including a confirm dialogue for all “Delete” and “Cancel” buttons
 
 • ensuring that the price of a product cannot be less than the cost of the parts
