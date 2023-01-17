@@ -1,5 +1,8 @@
 # C482-Java-Fx
 
+Project demonstrates working with JavaFX and all code can be found in the src folder.
+
+
 ### WGU C482 - Inventory Management System
 Student Project for WGU's C482 - Software I Course
 
