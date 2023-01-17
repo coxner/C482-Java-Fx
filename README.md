@@ -15,7 +15,7 @@ Your submission must be your original work. No more than a combined total of 30%
 
 You must use the rubric to direct the creation of your submission because it provides detailed criteria that will be used to evaluate your work. Each requirement below may be evaluated by more than one rubric aspect. The rubric aspect titles may contain hyperlinks to relevant portions of the course.
 
-** I. User Interface **
+**I. User Interface**
 Create a JavaFX application with a graphical user interface (GUI) based on the attached “GUI Mock-Up”. Write code to display each of the following screens in the GUI:
 
 A. Main screen, showing the following controls: 
